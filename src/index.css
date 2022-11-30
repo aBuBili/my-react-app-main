@@ -1,0 +1,12 @@
+:root {
+  font-size: 16px;
+  color: #383838;
+}
+
+@font-face {
+  font-family: "Alimama_ShuHeiTi_Bold";
+  font-weight: 700;
+  src: url("/font/Alimama_ShuHeiTi_Bold.woff2") format("woff2"), url("/font/Alimama_ShuHeiTi_Bold.woff") format("woff"),
+    url("/font/Alimama_ShuHeiTi_Bold.ttf");
+  font-display: swap;
+}
